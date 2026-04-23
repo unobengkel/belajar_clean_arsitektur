@@ -1,0 +1,2 @@
+# No external dependencies required
+# Only using Python standard library (sqlite3)
